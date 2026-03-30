@@ -6,5 +6,5 @@ import { Home } from './pages/home/home';
 export const routes: Routes = [
     {path:'mogador',component:Mogador},
     {path:'farmador',component:Farmador},
-    {path:'',component:Home},
+    {path:'',component:Home}
 ];
